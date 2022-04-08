@@ -18,9 +18,8 @@ h2 {
 }
 
 .section {
-	border: 0px solid red;
-	background: #b2b2b2;
 	border: 1px solid #000000;
+	background: #b2b2b2;
 	padding: 20px;
 	margin: 10px;
 	position: relative;
@@ -29,48 +28,57 @@ h2 {
 		
 .title-red {
     background-color: #993300;
-	color: white;
+	border: 1px solid #000000;
+    color: white;
     position: absolute;
-    right: 0;
-    top: 0;
-    border: 1px solid #000000;
+    right: -1px;
+    top: -1px;
     font-size: 125%;
     padding: 10px;
-	margin: -1px;
-    width: 200px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    width: 150px;
     text-align: center;
-	clear: left;
+    clear: left;
 
 }
 		
 .title-green {
     background-color: #009900;
+	border: 1px solid #000000;
     color: white;
     position: absolute;
-    right: 0;
-    top: 0;
-    border: 1px solid #000000;
+    right: -1px;
+    top: -1px;
     font-size: 125%;
     padding: 10px;
-	margin: -1px;
-    width: 200px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    width: 150px;
     text-align: center;
-	clear: left;
+    clear: left;
 
 }
 		
 .title-blue {
     background-color: #4AC2E2;
+	border: 1px solid #000000;
     position: absolute;
-    right: 0;
-    top: 0;
-    border: 1px solid #000000;
+    right: -1px;
+    top: -1px;
     font-size: 125%;
     padding: 10px;
-	margin: -1px;
-    width: 200px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    width: 150px;
     text-align: center;
-	clear: left;
+    clear: left;
 
 }
 
